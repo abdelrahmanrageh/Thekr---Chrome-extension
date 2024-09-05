@@ -10,7 +10,7 @@
     container.style.display = "flex";
     container.style.flexDirection = "column";
     if (document.body) {
-      document.body.appendChild(container);
+      document.body.appendChild(container); 
     } else {
       console.log("Document body not found, retrying...");
       setTimeout(() => {

@@ -10,7 +10,7 @@ function getData() {
   chrome.storage.local.get(
     [
       "prayerTimes",
-      "notifyMessage",
+      "notifyMessage", 
       "arLanguage",
       "notifiedTimes",
       "latitude",

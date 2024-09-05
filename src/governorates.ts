@@ -3,7 +3,7 @@ export const egyptCitiesCoordinates = [
   { city: "Aswan", latitude: 23.6966498, longitude: 32.7181375 },
   { city: "Asyut", latitude: 27.2133831, longitude: 31.4456179 },
   { city: "Beheira", latitude: 30.8480986, longitude: 30.3435506 },
-  { city: "Beni Suef", latitude: 28.8938837, longitude: 31.4456179 },
+  { city: "Beni Suef", latitude: 28.8938837, longitude: 31.4456179 }, 
   { city: "Cairo", latitude: 29.9537564, longitude: 31.5370003 },
   { city: "Dakahlia", latitude: 31.1656044, longitude: 31.4913182 },
   { city: "Damietta", latitude: 31.3625799, longitude: 31.6739371 },

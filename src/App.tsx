@@ -8,7 +8,7 @@ import {
   egyptCitiesCoordinatesArabic,
 } from "./governorates";
 
-type PryerTimes = {
+type PryerTimes = { 
   Fajr: string;
   Dhuhr: string;
   Asr: string;

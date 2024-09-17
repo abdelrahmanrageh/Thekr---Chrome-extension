@@ -14,8 +14,8 @@
 ## Installation
 
 You can install the extension directly from the following platforms:
-- [Chrome Web Store](#)
-- [Microsoft Edge Add-ons](#)
+- [Chrome Web Store](https://chromewebstore.google.com/detail/thekr-prayer-reminder/lgflogcipdlfjifkcjjhejjddeheigkh)
+- [Microsoft Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/thekr-prayer-reminder/cejdcadaepbjnabblfhbnlgkoelojfpm)
 
 ## Usage
 
